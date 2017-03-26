@@ -14,7 +14,7 @@
   "author": "ryerh",
   "license": "MIT",
   "dependencies": {
-    "i18n-calypso": "github:ryerh/i18n-calypso",
+    "i18n-calypso": "github:Automattic/i18n-calypso",
     "po2json": "^0.4.5"
   }
 }
